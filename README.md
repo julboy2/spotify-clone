@@ -5,3 +5,7 @@ https://www.youtube.com/watch?v=2aeMRB8LL4o&t=112s
 56:00
 <br />
 <br />
+supabase
+<br />
+https://supabase.com/docs/guides/api/rest/generating-types
+<br />
