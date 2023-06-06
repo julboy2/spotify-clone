@@ -9,3 +9,8 @@ supabase
 <br />
 https://supabase.com/docs/guides/api/rest/generating-types
 <br />
+<br />
+Radix-ui
+<br />
+https://www.radix-ui.com/docs/primitives/components/dialog
+<br />
