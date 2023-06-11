@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 https://www.youtube.com/watch?v=2aeMRB8LL4o&t=112s
 <br />
-2:51:00
+3:00:00
 <br />
 <br />
 supabase
