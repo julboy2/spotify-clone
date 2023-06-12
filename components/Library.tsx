@@ -5,8 +5,13 @@ import { AiOutlinePlus } from 'react-icons/ai'
 import useAuthModal from '@/hooks/useAuthModal'
 import { useUser } from '@/hooks/useUser'
 import useUploadModal from '@/hooks/useUploadModal'
+import { Song } from '@/types'
 
-export default function Library() {
+interface LibraryProps {
+  songs: Song[]
+}
+
+export default function Library({ songs }: LibraryProps) {
   const authModal = useAuthModal()
   const uploadModal = useUploadModal()
   const { user } = useUser()
