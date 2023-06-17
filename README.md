@@ -14,3 +14,7 @@ Radix-ui
 <br />
 https://www.radix-ui.com/docs/primitives/components/dialog
 <br />
+<br />
+카드결제
+<br />
+https://dashboard.stripe.com/dashboard
